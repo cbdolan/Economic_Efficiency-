@@ -1,3 +1,5 @@
 test file for GIT session with Seth on 2/21/2017
 
 this is practice text to see how it works 
+
+New line
